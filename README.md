@@ -1,16 +1,16 @@
-# 🛢️ Oil Field Profit Prediction
+#  Oil Field Profit Prediction
 
 Predictive analysis to identify the most profitable oil wells across three regions using synthetic geological data. The model uses linear regression and bootstrapping to recommend the best region for oil field development under defined business constraints.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Help OilyGiant select 200 optimal oil wells to invest in, from 500 explored sites per region. Maximize profitability while managing business risks such as development costs and production uncertainty.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 Each region has a dataset with the following fields:
 
@@ -20,7 +20,7 @@ Each region has a dataset with the following fields:
 
 ---
 
-## 💼 Business Constraints
+##  Business Constraints
 
 - Develop 200 oil wells per region
 - Budget: $100 million
@@ -30,7 +30,7 @@ Each region has a dataset with the following fields:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Preparation**
    - Load and analyze datasets for each region
@@ -53,7 +53,7 @@ Each region has a dataset with the following fields:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Demonstrated how predictive modeling can support high-stakes investment decisions
 - Incorporated real-world budget thresholds and probabilistic risk metrics
@@ -61,7 +61,7 @@ Each region has a dataset with the following fields:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 oil-well-profit-prediction/
@@ -76,7 +76,7 @@ oil-well-profit-prediction/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -85,13 +85,13 @@ oil-well-profit-prediction/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Oil Field Profit Estimation & Risk Analysis*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
