@@ -85,12 +85,6 @@ oil-well-profit-prediction/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Oil Field Profit Estimation & Risk Analysis*
-
----
-
 ##  Author
 
 David Villanueva  
